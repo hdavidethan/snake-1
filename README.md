@@ -9,7 +9,11 @@ Mac [link](https://www.python.org/ftp/python/3.11.4/python-3.11.4-macos11.pkg)
 Windows [link](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)  
 Mac [link](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
 
+### Chromebook setup
+Instructions [link](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started)
+
 Run `python3 setup.py`
+
 
 ## Run the game
 Run `python3 snake_game_human.py`
