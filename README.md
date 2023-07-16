@@ -13,6 +13,7 @@ Mac [link](https://code.visualstudio.com/sha/download?build=stable&os=darwin-uni
 VS Code instructions [link](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started)  
 Python instructions [link](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started#_code-with-python)
 
+### Install packages for the project
 Run `python3 setup.py`
 
 
