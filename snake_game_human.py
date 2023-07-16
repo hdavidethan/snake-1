@@ -80,14 +80,19 @@ class SnakeGame:
             if event.type == pygame.QUIT:
                 library.quit_game()
             if event.type == pygame.KEYDOWN:
-                # TODO: Check for user inputs and change directions
-                pass
+                # TODO: Check for user inputs and change the snake direction
+                # use the library module to check if left/right/up/down keys are pressed
+
+                pass # TODO: remove this line once you finished steps above
 
         game_over = False
 
-        # 2. TODO: Get the next head position
+        # 2. TODO: Get the next head position of the snake and set it to a variable
 
         # 3. TODO: Check if next head position is a collision, food, or empty
+        #  - If it is a collision, set game_over to True
+        #  - If it is a food, have the snake eat the food, increase your score by 1, and place another food in the game
+        #  - Anything else, move the snake to the next head position
 
         # 4. return game over and score
         return game_over, self.score
@@ -101,11 +106,11 @@ class SnakeGame:
 
     def _is_collision(self, position):
         # Check if a position is a collision
-        # 1. TODO: hits boundary
+        # 1. TODO: check if the snake has hit one of the walls (left wall, right wall, top wall, bottom wall)
 
-        # 2. TODO: hits itself
+        # 2. TODO: check if the snake has hit itself
 
-        # 3. no collision
+        # 3. no collision so return False
         return False
 
     def _get_next_head_position(self, direction):
