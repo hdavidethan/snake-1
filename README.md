@@ -10,7 +10,8 @@ Windows [link](https://code.visualstudio.com/sha/download?build=stable&os=win32-
 Mac [link](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
 
 ### Chromebook setup
-Instructions [link](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started)
+VS Code instructions [link](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started)  
+Python instructions [link](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started#_code-with-python)
 
 Run `python3 setup.py`
 
