@@ -19,3 +19,7 @@ Run `python3 setup.py`
 
 ## Run the game
 Run `python3 snake_game_human.py`
+
+
+## Replit template link
+https://replit.com/@FredHong/snake-1?v=1
